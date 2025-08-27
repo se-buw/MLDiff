@@ -1,0 +1,16 @@
+Settings:
+Dataset: iris
+Classifier1: svm
+Classifier2: svm
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+Classifier svm accuracy: 1.0
+Classifier svm f1-score: 0.97999799979998
+Classifier svm accuracy: 1.0
+Classifier svm f1-score: 0.97999799979998
+
+The two classifiers agree on all models
+Time to find disagreements: 0.005480527877807617

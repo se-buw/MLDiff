@@ -1,0 +1,16 @@
+Settings:
+Dataset: iris
+Classifier1: mlp
+Classifier2: mlp
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+Classifier mlp accuracy: 0.8333333333333334
+Classifier mlp f1-score: 0.8832938591974737
+Classifier mlp accuracy: 0.8333333333333334
+Classifier mlp f1-score: 0.8832938591974737
+
+The two classifiers agree on all models
+Time to find disagreements: 0.009853601455688477

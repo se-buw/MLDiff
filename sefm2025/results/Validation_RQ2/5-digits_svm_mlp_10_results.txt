@@ -1,0 +1,19 @@
+Settings:
+Dataset: digits
+Classifier1: svm
+Classifier2: mlp
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier svm accuracy: 0.9638888888888889
+Classifier svm f1-score: 0.985971869852246
+Classifier mlp accuracy: 0.9222222222222223
+Classifier mlp f1-score: 0.9532508954836661
+
+Number of disagreements by solver: 83
+Spurious disagreements by solver: 7
+Misclassified disagreements by solver: 57
+Correct disagreements by solver: 26
+Time to find disagreements: 1399.9476442337036

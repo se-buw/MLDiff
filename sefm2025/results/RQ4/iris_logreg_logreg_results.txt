@@ -1,0 +1,16 @@
+Settings:
+Dataset: iris
+Classifier1: logreg
+Classifier2: logreg
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+Classifier logreg accuracy: 1.0
+Classifier logreg f1-score: 0.9799819837854069
+Classifier logreg accuracy: 1.0
+Classifier logreg f1-score: 0.9799819837854069
+
+The two classifiers agree on all models
+Time to find disagreements: 0.005667209625244141

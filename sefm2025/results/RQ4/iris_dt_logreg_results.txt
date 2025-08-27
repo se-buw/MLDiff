@@ -1,0 +1,19 @@
+Settings:
+Dataset: iris
+Classifier1: dt
+Classifier2: logreg
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+Classifier dt accuracy: 1.0
+Classifier dt f1-score: 1.0
+Classifier logreg accuracy: 1.0
+Classifier logreg f1-score: 0.9799819837854069
+
+Number of disagreements by solver: 6
+Spurious disagreements by solver: 0
+Misclassified disagreements by solver: 0
+Correct disagreements by solver: 6
+Time to find disagreements: 0.019497156143188477

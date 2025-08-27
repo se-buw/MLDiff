@@ -1,0 +1,19 @@
+Settings:
+Dataset: digits
+Classifier1: dt
+Classifier2: mlp
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier dt accuracy: 0.8694444444444445
+Classifier dt f1-score: 0.9738716872560358
+Classifier mlp accuracy: 0.9222222222222223
+Classifier mlp f1-score: 0.9532508954836661
+
+Number of disagreements by solver: 87
+Spurious disagreements by solver: 3
+Misclassified disagreements by solver: 35
+Correct disagreements by solver: 52
+Time to find disagreements: 247.90230870246887

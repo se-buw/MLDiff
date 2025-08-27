@@ -1,0 +1,19 @@
+Settings:
+Dataset: iris
+Classifier1: mlp
+Classifier2: dt
+PCA: False
+Domain constraints: True
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier mlp accuracy: 0.8333333333333334
+Classifier mlp f1-score: 0.8832938591974737
+Classifier dt accuracy: 1.0
+Classifier dt f1-score: 1.0
+
+Number of disagreements by solver: 5
+Spurious disagreements by solver: 1
+Misclassified disagreements by solver: 3
+Correct disagreements by solver: 2
+Time to find disagreements: 10.276223421096802

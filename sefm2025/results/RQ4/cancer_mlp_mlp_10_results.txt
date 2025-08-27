@@ -1,0 +1,16 @@
+Settings:
+Dataset: cancer
+Classifier1: mlp
+Classifier2: mlp
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+Classifier mlp accuracy: 0.9649122807017544
+Classifier mlp f1-score: 0.922721716691566
+Classifier mlp accuracy: 0.9649122807017544
+Classifier mlp f1-score: 0.922721716691566
+
+The two classifiers agree on all models
+Time to find disagreements: 0.0070264339447021484

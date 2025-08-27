@@ -1,0 +1,16 @@
+Settings:
+Dataset: digits
+Classifier1: mlp
+Classifier2: mlp
+PCA: False
+Domain constraints: True
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier mlp accuracy: 0.9222222222222223
+Classifier mlp f1-score: 0.9532508954836661
+Classifier mlp accuracy: 0.9222222222222223
+Classifier mlp f1-score: 0.9532508954836661
+
+The two classifiers agree on all models
+Time to find disagreements: 0.029652833938598633

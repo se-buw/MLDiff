@@ -1,0 +1,15 @@
+Settings:
+Dataset: digits
+Classifier1: svm
+Classifier2: dt
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier svm accuracy: 0.9638888888888889
+Classifier svm f1-score: 0.985971869852246
+Classifier dt accuracy: 0.8694444444444445
+Classifier dt f1-score: 0.9738716872560358
+
+Number of unique disagreements: 38

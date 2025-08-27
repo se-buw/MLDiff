@@ -1,0 +1,16 @@
+dt-dt: None & None & None & None & 
+dt-logreg: 2 & 8 & 3 & 1 & 
+dt-mlp: 0 & 3 & 7 & 0 & 
+dt-svm: 1 & 11 & 5 & 0 & 
+logreg-dt: 0 & 8 & 2 & 1 & 
+logreg-logreg: None & None & None & None & 
+logreg-mlp: 1 & 3 & 12 & 0 & 
+logreg-svm: 2 & 8 & 13 & 0 & 
+mlp-dt: 0 & 7 & 5 & 1 & 
+mlp-logreg: 1 & 7 & 5 & 1 & 
+mlp-mlp: None & None & None & None & 
+mlp-svm: 3 & 15 & 12 & 1 & 
+svm-dt: 3 & 5 & 4 & 0 & 
+svm-logreg: 0 & 16 & 8 & 0 & 
+svm-mlp: 2 & 7 & 5 & 0 & 
+svm-svm: None & None & None & None & 

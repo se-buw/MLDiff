@@ -1,0 +1,15 @@
+Settings:
+Dataset: iris
+Classifier1: svm
+Classifier2: logreg
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier svm accuracy: 1.0
+Classifier svm f1-score: 0.97999799979998
+Classifier logreg accuracy: 1.0
+Classifier logreg f1-score: 0.9799819837854069
+
+Number of unique disagreements: 1

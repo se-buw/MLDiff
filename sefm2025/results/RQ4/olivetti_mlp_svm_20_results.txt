@@ -1,0 +1,21 @@
+Settings:
+Dataset: olivetti
+Classifier1: mlp
+Classifier2: svm
+PCA: True
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+PCA explained variance ratio: 0.7880251593887806
+Reconstruction error: 0.004084249492734671
+Classifier mlp accuracy: 0.75
+Classifier mlp f1-score: 0.7348628033373624
+Classifier svm accuracy: 1.0
+Classifier svm f1-score: 1.0
+
+Number of disagreements by solver: 85
+Spurious disagreements by solver: 5
+Misclassified disagreements by solver: 26
+Correct disagreements by solver: 59
+Time to find disagreements: 602.2013998031616

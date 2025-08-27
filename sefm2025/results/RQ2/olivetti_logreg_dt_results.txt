@@ -1,0 +1,21 @@
+Settings:
+Dataset: olivetti
+Classifier1: logreg
+Classifier2: dt
+PCA: True
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+PCA explained variance ratio: 0.7880251593887806
+Reconstruction error: 0.004084249492734671
+Classifier logreg accuracy: 1.0
+Classifier logreg f1-score: 1.0
+Classifier dt accuracy: 0.65
+Classifier dt f1-score: 0.9296293764714818
+
+Number of disagreements by solver: 88
+Spurious disagreements by solver: 2
+Misclassified disagreements by solver: 61
+Correct disagreements by solver: 27
+Time to find disagreements: 0.9831128120422363

@@ -1,0 +1,16 @@
+Settings:
+Dataset: cancer
+Classifier1: svm
+Classifier2: svm
+PCA: False
+Domain constraints: True
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier svm accuracy: 0.9385964912280702
+Classifier svm f1-score: 0.921786941580756
+Classifier svm accuracy: 0.9385964912280702
+Classifier svm f1-score: 0.921786941580756
+
+The two classifiers agree on all models
+Time to find disagreements: 0.010213851928710938

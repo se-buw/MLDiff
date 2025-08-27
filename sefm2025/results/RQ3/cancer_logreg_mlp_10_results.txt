@@ -1,0 +1,19 @@
+Settings:
+Dataset: cancer
+Classifier1: logreg
+Classifier2: mlp
+PCA: False
+Domain constraints: True
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier logreg accuracy: 0.956140350877193
+Classifier logreg f1-score: 0.952686948915209
+Classifier mlp accuracy: 0.9649122807017544
+Classifier mlp f1-score: 0.922721716691566
+
+Number of disagreements by solver: 2
+Spurious disagreements by solver: 0
+Misclassified disagreements by solver: 0
+Correct disagreements by solver: 2
+Time to find disagreements: 3.527454376220703

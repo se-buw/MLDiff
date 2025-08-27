@@ -1,0 +1,19 @@
+Settings:
+Dataset: cancer
+Classifier1: mlp
+Classifier2: dt
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+Classifier mlp accuracy: 0.9649122807017544
+Classifier mlp f1-score: 0.922721716691566
+Classifier dt accuracy: 0.9473684210526315
+Classifier dt f1-score: 0.9887228476296179
+
+Number of disagreements by solver: 2
+Spurious disagreements by solver: 0
+Misclassified disagreements by solver: 0
+Correct disagreements by solver: 2
+Time to find disagreements: 0.5131051540374756

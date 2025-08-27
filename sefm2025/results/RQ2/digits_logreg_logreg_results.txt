@@ -1,0 +1,16 @@
+Settings:
+Dataset: digits
+Classifier1: logreg
+Classifier2: logreg
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier logreg accuracy: 0.9694444444444444
+Classifier logreg f1-score: 0.9939075998286617
+Classifier logreg accuracy: 0.9694444444444444
+Classifier logreg f1-score: 0.9939075998286617
+
+The two classifiers agree on all models
+Time to find disagreements: 0.06276965141296387

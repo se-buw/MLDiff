@@ -1,0 +1,19 @@
+Settings:
+Dataset: digits
+Classifier1: logreg
+Classifier2: mlp
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier logreg accuracy: 0.9694444444444444
+Classifier logreg f1-score: 0.9939075998286617
+Classifier mlp accuracy: 0.9222222222222223
+Classifier mlp f1-score: 0.9532508954836661
+
+Number of disagreements by solver: 87
+Spurious disagreements by solver: 3
+Misclassified disagreements by solver: 58
+Correct disagreements by solver: 29
+Time to find disagreements: 1133.8587872982025

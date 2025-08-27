@@ -1,0 +1,19 @@
+Settings:
+Dataset: cancer
+Classifier1: logreg
+Classifier2: svm
+PCA: False
+Domain constraints: True
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier logreg accuracy: 0.956140350877193
+Classifier logreg f1-score: 0.952686948915209
+Classifier svm accuracy: 0.9385964912280702
+Classifier svm f1-score: 0.921786941580756
+
+Number of disagreements by solver: 1
+Spurious disagreements by solver: 1
+Misclassified disagreements by solver: 0
+Correct disagreements by solver: 1
+Time to find disagreements: 0.0330047607421875

@@ -1,0 +1,15 @@
+Settings:
+Dataset: digits
+Classifier1: mlp
+Classifier2: logreg
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier mlp accuracy: 0.9222222222222223
+Classifier mlp f1-score: 0.9532508954836661
+Classifier logreg accuracy: 0.9694444444444444
+Classifier logreg f1-score: 0.9939075998286617
+
+Number of unique disagreements: 35

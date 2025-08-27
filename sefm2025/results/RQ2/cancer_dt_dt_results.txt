@@ -1,0 +1,16 @@
+Settings:
+Dataset: cancer
+Classifier1: dt
+Classifier2: dt
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier dt accuracy: 0.9473684210526315
+Classifier dt f1-score: 0.9887228476296179
+Classifier dt accuracy: 0.9473684210526315
+Classifier dt f1-score: 0.9887228476296179
+
+The two classifiers agree on all models
+Time to find disagreements: 0.004859209060668945

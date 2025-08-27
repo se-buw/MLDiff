@@ -1,0 +1,16 @@
+Settings:
+Dataset: cancer
+Classifier1: logreg
+Classifier2: logreg
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+Classifier logreg accuracy: 0.956140350877193
+Classifier logreg f1-score: 0.952686948915209
+Classifier logreg accuracy: 0.956140350877193
+Classifier logreg f1-score: 0.952686948915209
+
+The two classifiers agree on all models
+Time to find disagreements: 0.01052236557006836

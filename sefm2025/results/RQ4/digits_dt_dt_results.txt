@@ -1,0 +1,16 @@
+Settings:
+Dataset: digits
+Classifier1: dt
+Classifier2: dt
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.001
+Epsilon argmax: 0.001
+
+Classifier dt accuracy: 0.8694444444444445
+Classifier dt f1-score: 0.9738716872560358
+Classifier dt accuracy: 0.8694444444444445
+Classifier dt f1-score: 0.9738716872560358
+
+The two classifiers agree on all models
+Time to find disagreements: 0.011403083801269531

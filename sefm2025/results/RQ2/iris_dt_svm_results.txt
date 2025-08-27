@@ -1,0 +1,19 @@
+Settings:
+Dataset: iris
+Classifier1: dt
+Classifier2: svm
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier dt accuracy: 1.0
+Classifier dt f1-score: 1.0
+Classifier svm accuracy: 1.0
+Classifier svm f1-score: 0.97999799979998
+
+Number of disagreements by solver: 5
+Spurious disagreements by solver: 1
+Misclassified disagreements by solver: 1
+Correct disagreements by solver: 4
+Time to find disagreements: 0.017390966415405273

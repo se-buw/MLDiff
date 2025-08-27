@@ -1,0 +1,4 @@
+Standard deviation of the results of MLP-SVM: 2.1313727492122005
+Standard deviation of the results of SVM-MLP: 8.75406451873567
+Average of the results of MLP-SVM: 258.7820143222809
+Average of the results of SVM-MLP: 1400.1470290899276

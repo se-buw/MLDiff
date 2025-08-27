@@ -1,0 +1,16 @@
+dt - olivetti: 65.00, 92.96
+dt - digits: 86.94, 97.39
+dt - iris: 100.00, 100.00
+dt - cancer: 94.74, 98.87
+logreg - olivetti: 100.00, 100.00
+logreg - digits: 96.94, 99.39
+logreg - iris: 100.00, 98.00
+logreg - cancer: 95.61, 95.27
+mlp - digits: 92.22, 95.33
+mlp - cancer: 96.49, 92.27
+mlp - iris: 83.33, 88.33
+mlp - olivetti: 75.00, 73.49
+svm - iris: 100.00, 98.00
+svm - digits: 96.39, 98.60
+svm - olivetti: 100.00, 100.00
+svm - cancer: 93.86, 92.18

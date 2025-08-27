@@ -1,0 +1,15 @@
+Settings:
+Dataset: cancer
+Classifier1: svm
+Classifier2: mlp
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier svm accuracy: 0.9385964912280702
+Classifier svm f1-score: 0.921786941580756
+Classifier mlp accuracy: 0.9649122807017544
+Classifier mlp f1-score: 0.922721716691566
+
+Number of unique disagreements: 2

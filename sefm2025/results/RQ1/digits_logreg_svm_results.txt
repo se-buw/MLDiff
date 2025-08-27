@@ -1,0 +1,15 @@
+Settings:
+Dataset: digits
+Classifier1: logreg
+Classifier2: svm
+PCA: False
+Domain constraints: False
+Epsilon decision distance: 0.0
+Epsilon argmax: 0.0
+
+Classifier logreg accuracy: 0.9694444444444444
+Classifier logreg f1-score: 0.9939075998286617
+Classifier svm accuracy: 0.9638888888888889
+Classifier svm f1-score: 0.985971869852246
+
+Number of unique disagreements: 10
